@@ -1,22 +1,3 @@
---made by 1+1=2/rouxhaver
---only works with r6
---click somewhere to move your friend
---press V to wave
---your friend will dance with you "/e dance"
---feel free to mess around with the reanimate settings
-
---REQUIRED hats/hair:
---https://www.roblox.com/catalog/48474313/Red-Roblox-Cap
---https://www.roblox.com/catalog/62724852/Chestnut-Bun
---https://www.roblox.com/catalog/451220849/Lavender-Updo
---https://www.roblox.com/bundles/282/ROBLOX-Girl
---https://www.roblox.com/catalog/4047554959/International-Fedora-Brazil
---https://www.roblox.com/catalog/63690008/Pal-Hair
---https://www.roblox.com/catalog/62234425/Brown-Hair
---https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
-
---(you can have three other hats that will stay on your avatar)
-
 --reanimate by MyWorld#4430 discord.gg/pYVHtSJmEY
 local v3_net, v3_808 = Vector3.new(0.1, 25.1, 0.1), Vector3.new(8, 0, 8)
 local function getNetlessVelocity(realPartVelocity)
